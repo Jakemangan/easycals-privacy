@@ -196,9 +196,9 @@
 
   If you have questions about this Privacy Policy or EasyCals, please contact us:
 
-  **Email:** [YOUR EMAIL - e.g., privacy@easycals.app]
-  **Website:** [YOUR WEBSITE - e.g., easycals.app]
-  **App Developer:** [YOUR NAME or COMPANY NAME]
+  **Email:** hello@koanlabs.dev
+  **Website:** https://koanlabs.dev
+  **App Developer:** Jake Mangan
 
   **Response Time:** We aim to respond to privacy inquiries within 7 business days.
 
@@ -207,8 +207,8 @@
   ## 14. Legal Information
 
   **App Name:** EasyCals - Calorie & Macro Tracker
-  **Developer:** [YOUR NAME or COMPANY NAME]
-  **Jurisdiction:** [YOUR COUNTRY/STATE - e.g., United Kingdom, California USA]
+  **Developer:** Jake Mangan
+  **Jurisdiction:** United Kingdom
 
   ---
 
