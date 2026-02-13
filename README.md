@@ -1,8 +1,8 @@
   ---                                                                                                                                                                 
   # Privacy Policy for EasyCals                                                 
                                                                                                                                                                       
-  **Effective Date:** [Insert Date - e.g., February 13, 2025]                                                                                                         
-  **Last Updated:** [Insert Date]
+  **Effective Date:** February 13, 2025                                                                                                        
+  **Last Updated:** February 13, 2025                                                                                                        
 
   ---
 
